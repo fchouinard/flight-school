@@ -10,5 +10,5 @@ jobs:
   plan:
   - get: flight-school
   - task: tests
-    file: flight-school/build.yml
+    file: build.yml
 
