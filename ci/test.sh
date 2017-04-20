@@ -7,4 +7,3 @@ pushd flight-school
   bundle exec rspec
 popd
 
-
